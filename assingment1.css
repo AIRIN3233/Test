@@ -1,0 +1,27 @@
+span {
+    color: rgb(235, 154, 4);   
+}
+
+
+  input[type="submit"] {
+    margin-left: 165px;
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    cursor: pointer;
+  
+  }
+  form{
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    background-color: #ffffff;
+  }
+  input{
+    width: 200px;
+    height: 15px;
+    margin-bottom: 15px;
+  }
+
+
+
